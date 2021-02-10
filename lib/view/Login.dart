@@ -35,7 +35,7 @@ class _LoginUserState extends State<LoginUser> {
                   child: Container(
                       width: 200,
                       height: 150,
-                      child: Image.asset('assets/logo.jpg')),
+                      child: Image.asset('assets/logo.png')),
                 ),
               ),
               Padding(
