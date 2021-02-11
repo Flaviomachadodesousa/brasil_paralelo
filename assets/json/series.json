@@ -1,0 +1,38 @@
+[
+
+	{	"id":1,
+		"titulo":"As Grandes Minorias",
+		"ategoria": "Minissérie - 3 episódios",
+		"lancamento": "Novembro de 2020",
+		"duracao": "2h",
+		"img":"https://d9hhrg4mnvzow.cloudfront.net/site.brasilparalelo.com.br/series/41b6a533-asgrandesminoriasposter_108c0cl000000000000028.png"
+	},
+	{	"id":2,
+		"titulo":"O Fim das Nações",
+		"ategoria": "Minissérie - 3 episódios",
+		"lancamento": "Outubro de 2020",
+		"duracao": "2h15min",
+		"img":"https://d9hhrg4mnvzow.cloudfront.net/site.brasilparalelo.com.br/series/38308f9f-postersite_108c0cl000000000000028.png"
+	},
+	{	"id":3,
+		"titulo":"Os 11 Supremos",
+		"ategoria": "Série - 11 episódios",
+		"lancamento": "Agosto de 2020",
+		"duracao": "2h50min",
+		"img":"https://d9hhrg4mnvzow.cloudfront.net/site.brasilparalelo.com.br/series/92769822-posters_108w0cl08c0cl00a000028.png"
+	},
+	{	"id":4,
+		"titulo":"Pátria Educadora",
+		"ategoria": "Série - 3 episódios",
+		"lancamento": "Março de 2020",
+		"duracao": "4h",
+		"img":"https://d9hhrg4mnvzow.cloudfront.net/site.brasilparalelo.com.br/series/ee5dabef-patrieducadora_1000000000000000000028.png"
+	},
+	{	"id":5,
+		"titulo":"A Última Cruzada",
+		"ategoria": "Série - 7 episódios",
+		"lancamento": "Setembro de 2017",
+		"duracao": "5h30min",
+		"img":"https://d9hhrg4mnvzow.cloudfront.net/site.brasilparalelo.com.br/series/c9bcf493-seriebrasil_1000000000000000000028.png"
+	}
+]
