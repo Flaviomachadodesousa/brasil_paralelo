@@ -1,0 +1,31 @@
+[
+
+	{	"id":1,
+		"titulo":"Exemplo 1",
+		"ategoria": "Ao Vivo",
+		"data": "21/02/2021 - 14:00",
+		"duracao": "1h",
+		"img":"https://d9hhrg4mnvzow.cloudfront.net/site.brasilparalelo.com.br/series/41b6a533-asgrandesminoriasposter_108c0cl000000000000028.png"
+	},
+	{	"id":2,
+		"titulo":"Exemplo 2",
+		"ategoria": "Ao Vivo",
+		"data": "24/02/2021 - 14:00",
+		"duracao": "1h30min",
+		"img":"https://d9hhrg4mnvzow.cloudfront.net/site.brasilparalelo.com.br/series/41b6a533-asgrandesminoriasposter_108c0cl000000000000028.png"
+	},
+	{	"id":3,
+		"titulo":"Exemplo 3",
+		"ategoria": "Ao Vivo",
+		"data": "27/02/2021 - 16:00",
+		"duracao": "1h59min",
+		"img":"https://d9hhrg4mnvzow.cloudfront.net/site.brasilparalelo.com.br/series/41b6a533-asgrandesminoriasposter_108c0cl000000000000028.png"
+	},
+	{	"id":4,
+		"titulo":"Exemplo 4",
+		"ategoria": "Ao Vivo",
+		"data": "29/02/2021 - 14:00",
+		"duracao": "1h25min",
+		"img":"https://d9hhrg4mnvzow.cloudfront.net/site.brasilparalelo.com.br/series/41b6a533-asgrandesminoriasposter_108c0cl000000000000028.png"
+	}
+]
