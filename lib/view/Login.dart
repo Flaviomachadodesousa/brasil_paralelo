@@ -1,4 +1,3 @@
-import 'package:brasil_paralelo/view/HomeScreen.dart';
 import 'package:brasil_paralelo/view/programacao.dart';
 import 'package:flutter/material.dart';
 
