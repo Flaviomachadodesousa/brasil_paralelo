@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return new MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Revendedor',
+      title: 'Brasil Paralelo',
       theme: new ThemeData(
         primarySwatch: Colors.blue,
       ),
