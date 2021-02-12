@@ -22,7 +22,7 @@ Widget _introScreen() {
         gradientBackground: LinearGradient(
           begin: Alignment.topRight,
           end: Alignment.bottomLeft,
-          colors: [Color(0x18802b), Color(0x18802b)],
+          colors: [Color(0xffffffff), Color(0xffffffff)],
         ),
         navigateAfterSeconds: LoginUser(),
         loaderColor: Colors.transparent,
