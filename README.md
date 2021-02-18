@@ -1,4 +1,4 @@
-# Projeto Brasil Paralelo
+# Project Brasil Paralelo
 - Teste Mobile(Flutter) - Brasil Paralelo.
 - Aplicativo feito em Flutter - Version utilizada 1.22.6.
 - SplashScreen de tela inicial.
@@ -8,14 +8,14 @@
 # Configuração
 - Para executar o projeto, é necessário utilizar o Android Studio ou VSCode, para que o mesmo identifique as dependências necessárias para a execução. Uma vez importado o projeto, localizar o arquivo pubspec.yaml e rodar o seguinte comando no CMD "flutter pub get", isso irar baixar as dependencias necessarias.
 
-# Dependencias Utilizadas
+# Features
 - [x] mvc_pattern: ^6.6.4+2
 - [x] splashscreen: ^1.3.5
 - [x] cupertino_icons: ^1.0.0
 - [x] font_awesome_flutter: ^8.11.0
 - [x] http: ^0.12.2
 
-# Features
+# Screens
 - [x] SplashScreen
 - [x] Login de usuario
 - [x] Menu Lateral
