@@ -5,7 +5,7 @@
 - Login com validador.
 - Json para manipulações de dados pela internet.
 
-# Configuração
+# Settings
 - Para executar o projeto, é necessário utilizar o Android Studio ou VSCode, para que o mesmo identifique as dependências necessárias para a execução. Uma vez importado o projeto, localizar o arquivo pubspec.yaml e rodar o seguinte comando no CMD "flutter pub get", isso irar baixar as dependencias necessarias.
 
 # Features
